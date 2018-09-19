@@ -16,7 +16,7 @@ function clockInRealTime (e) {
   const seconds = e.getSeconds()
   const minutes = e.getMinutes()
   const hour = e.getHours()
-  
+
   const secondsDegrees = (seconds / 60) * 360 + 90
   const minutesDegrees = (minutes / 60) * 360 + 90
   const hourDegrees = (hour / 12) * 360 + 90
