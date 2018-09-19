@@ -1,6 +1,6 @@
 # Practice of vanila JavaScript with js30
 
-This is my repository of my work from the video course javascript30
+This is repository of my work from the video course javascript30
 
 ## List
 
