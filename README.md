@@ -10,4 +10,5 @@ This is repository of my work from the video course javascript30
 * [Arrays Methods](http://adkontrk.com/landers/ahp9238ry/js30/04-Array-Cardio-Day-1/index-START.html) - Practice with .map() .filter() .sort() .reduce()
 * [Flex Gallery](http://adkontrk.com/landers/ahp9238ry/js30/05-Flex-Panel-gallery/index-START.html) - Flex Gallery on Click
 * [Type Ahead](http://adkontrk.com/landers/ahp9238ry/js30/06-Type-Ahead/index-START.html) - Sort search input
+* [Arrays Methods 2](http://adkontrk.com/landers/ahp9238ry/js30/07-Array-Cardio-Day-2/index-START.html) - Practice with .some() .every() .find() .findIndex()
 
